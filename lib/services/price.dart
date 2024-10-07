@@ -46,6 +46,7 @@ class PriceAPI {
     Namecoin: "namecoin",
     Nano: "nano",
     Banano: "banano",
+    Fact0rn: "fact0rn",
   };
 
   static const refreshInterval = 60;
