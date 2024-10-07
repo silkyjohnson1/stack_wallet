@@ -70,6 +70,7 @@ final List<CryptoCurrency> _supportedCoins = List.unmodifiable([
   Peercoin(CryptoCurrencyNetwork.main),
   Solana(CryptoCurrencyNetwork.main),
   Stellar(CryptoCurrencyNetwork.main),
+  Fact0rn(CryptoCurrencyNetwork.main),
   Tezos(CryptoCurrencyNetwork.main),
   Wownero(CryptoCurrencyNetwork.main),
   Bitcoin(CryptoCurrencyNetwork.test),
@@ -82,6 +83,7 @@ final List<CryptoCurrency> _supportedCoins = List.unmodifiable([
   Litecoin(CryptoCurrencyNetwork.test),
   Peercoin(CryptoCurrencyNetwork.test),
   Stellar(CryptoCurrencyNetwork.test),
+  Fact0rn(CryptoCurrencyNetwork.test,
 ]);
 
 EOF
